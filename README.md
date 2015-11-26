@@ -3,7 +3,7 @@
 ##Write by python and not use recursion
 ####－－－－－－－－－－－－－－Help－－－－－－－－－－－－－－－－－－
 
-****python filepath [n|N|f|F|p|P|e|E|s|S|l|L|w|W|-h|-H|--help]**** </br>
+***python filepath [n|N|f|F|p|P|e|E|s|S|l|L|w|W|-h|-H|--help]*** </br>
 
         ＊ -h|-H: print this help doc
         ＊ n|N: only show all line number
